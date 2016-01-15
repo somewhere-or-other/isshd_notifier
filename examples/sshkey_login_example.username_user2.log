@@ -1,0 +1,41 @@
+sshd_connection_start_3 time=1452880229.353675 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 uristring=127.0.0.1_192.168.219.187_10.8.122.50 addr=10.8.122.176 port=56948/tcp addr=0.0.0.0 port=22/tcp count=0
+session_key_exchange time=1452880229.362229 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 uristring=%3Cimplicit%3E_%3Cimplicit%3E_%3Cimplicit%3E_%3Cimplicit%3E
+auth_key_fingerprint_3 time=1452880229.450800 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 uristring=SHA256%3Arb2oIt7WNwLI4xPELjfsreL2hqwS1H3qub2HG1eHqWE uristring=RSA
+auth_info_3 time=1452880229.451057 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 uristring=Postponed uristring=user2 uristring=publickey addr=10.8.122.176  port=56948/tcp addr=0.0.0.0 port=22/tcp
+auth_key_fingerprint_3 time=1452880229.455032 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 uristring=SHA256%3Arb2oIt7WNwLI4xPELjfsreL2hqwS1H3qub2HG1eHqWE uristring=RSA
+auth_info_3 time=1452880229.456735 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 uristring=Accepted uristring=user2 uristring=publickey addr=10.8.122.176  port=56948/tcp addr=0.0.0.0 port=22/tcp
+session_new_3 time=1452880229.504046 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 int=30827 uristring=SSH2
+channel_new_3 time=1452880229.504283 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 count=10 uristring=server-session
+session_input_channel_open_3 time=1452880229.504350 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=90 uristring=session int=0 int=1048576 int=16384
+session_channel_request_3 time=1452880229.543346 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 int=30827 count=0 uristring=pty-req
+session_channel_request_3 time=1452880229.543923 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 int=30827 count=0 uristring=shell
+channel_data_server_3 time=1452880229.545885 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=Last+login%3A+Fri+Jan+15+10%3A50%3A20+2016+from+10.8.122.176
+channel_data_server_3 time=1452880229.545910 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=
+channel_data_server_3 time=1452880229.545922 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=
+channel_data_server_3 time=1452880229.545934 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=
+channel_data_server_3 time=1452880229.545947 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=
+channel_data_server_3 time=1452880229.545960 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=
+channel_data_server_3 time=1452880229.545970 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=
+channel_data_server_3 time=1452880229.545974 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A
+channel_data_server_3 time=1452880229.895914 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A%1B%5B1mIdeas+for+training+topics%3F+Suggest+some%3A+supercomputing%40byu.edu%1B%5B0m
+channel_data_server_3 time=1452880229.895954 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A
+channel_data_server_3 time=1452880229.897968 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A%1B%5B1m%1B%5B4mNotices%3A%1B%5B0m
+channel_data_server_3 time=1452880229.897998 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A+%2A+Two-factor+authentication+%5Bhttps%3A%2F%2Fmarylou.byu.edu%2Faccount%2Fauthenticate%2Fenroll%5D+now+available.
+channel_data_server_3 time=1452880229.898014 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A+%2A+FSL+is+hiring+a+full-time+HPC+Applications+Specialist+%28Linux%29+%5Bhttps%3A%2F%2Fyjobs.byu.edu%2Fpostings%2F8627%5D.
+channel_data_server_3 time=1452880229.898033 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A+%2A+If+you+are+interested+in+remote+visualization%2C+please+help+test+a+new+offering+%5Bhttps%3A%2F%2Fmarylou.byu.edu%2Fwiki%2F%3Fid%3DGraphics%2Band%2BVisualization%2BTesting%5D.
+channel_data_server_3 time=1452880229.898041 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A
+channel_data_client_3 time=1452880237.374581 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%23this+is+a+basic+comment+on+the+command-line
+channel_data_server_3 time=1452880237.377918 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A%1B%5B0m%1B%5B%3F1034h%5Buser2%40m7int02+%7E%5D%24+%23this+is+a+basic+comment+on+the+command-line
+channel_data_server_3 time=1452880237.537855 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A%5Buser2%40m7int02+%7E%5D%24+
+channel_data_server_3 time=1452880237.712876 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A%5Buser2%40m7int02+%7E%5D%24+
+channel_data_server_3 time=1452880237.873912 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A%5Buser2%40m7int02+%7E%5D%24+
+channel_data_server_3 time=1452880238.25891 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A%5Buser2%40m7int02+%7E%5D%24+
+channel_data_server_3 time=1452880238.225909 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A%5Buser2%40m7int02+%7E%5D%24+
+channel_data_client_3 time=1452880241.718722 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%23and+now+logging+out
+channel_data_server_3 time=1452880241.722930 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A%5Buser2%40m7int02+%7E%5D%24+%23and+now+logging+out
+channel_data_server_3 time=1452880241.904083 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A%5Buser2%40m7int02+%7E%5D%24+
+channel_data_server_3 time=1452880242.90168 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A%5Buser2%40m7int02+%7E%5D%24+
+channel_data_server_3 time=1452880242.281920 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A%5Buser2%40m7int02+%7E%5D%24+
+session_exit_3 time=1452880242.465717 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 count=30815 count=0
+channel_data_server_3 time=1452880242.465841 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=%0A%5Buser2%40m7int02+%7E%5D%24+logout
+channel_free_3 time=1452880242.466468 uristring=NMOD_3.17 uristring=-1463764005%3Am7int02%3A22 count=2108566858 count=0 uristring=server-session
